@@ -1,0 +1,23 @@
+{
+	"name": "dragon-ball-heroes-collection",
+	"version": "1.0.0",
+	"author": "hasiermetal@gmail.com",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hasier-inan/dragon-ball-heroes-collection.git"
+	},
+	"dependencies": {
+		"next": "12.2.5",
+		"react": "18.2.0",
+		"react-dom": "18.2.0"
+	},
+	"devDependencies": {
+		"eslint": "8.22.0",
+		"eslint-config-next": "12.2.5"
+	},
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start"
+	}
+}
